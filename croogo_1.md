@@ -167,6 +167,7 @@ The theme upload feature can write a PHP web shell under the web root via direct
 - Vendor / project: croogo
 
 - Repository: https://github.com/croogo/croogo
+- Issue：https://github.com/croogo/croogo/issues/1010
 - Package name: croogo/croogo
 - Affected versions: 4.0.7
 - Fixed version: unknown / not confirmed.
